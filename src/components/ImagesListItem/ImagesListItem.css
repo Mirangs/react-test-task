@@ -1,0 +1,25 @@
+.ImagesListItem__information {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 0 3vw;
+  margin: 0;
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
+
+.ImagesListItem {
+  max-width: 350px;
+}
+
+.ImagesListItem img {
+  width: 100%;
+  height: auto;
+}
+
+.LikesIcon,
+.CommentIcon {
+  width: 10px;
+  margin-right: 5px;
+  vertical-align: middle;
+}

@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.Label {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 20px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.Input {
+  display: block;
+  padding: 10px;
+  margin: 0;
+  margin-top: 5px;
+  border-radius: 5px;
+  border: 1px solid #aaa;
+}

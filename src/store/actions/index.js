@@ -1,0 +1,3 @@
+export {
+  initImages
+} from './images';
